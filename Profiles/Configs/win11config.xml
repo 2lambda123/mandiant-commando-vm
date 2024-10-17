@@ -35,7 +35,7 @@
         INFO:
         Makes custom edits to the registry
         FORMAT:
-        <registry-item name="DESCRIPTIVE_NAME" path="REG_PATH" value="REG_VALUE" type="TYPE" data="NEW_DATA"/> 
+        <registry-item name="DESCRIPTIVE_NAME" path="REG_PATH" value="REG_VALUE" type="TYPE" data="NEW_DATA"/>
         -->
         <registry-item name="Set Dark Mode on System" path="HKCU:\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" value="SystemUsesLightTheme" type="DWord" data="0"/>
         <registry-item name="Set Dark Mode on Apps" path="HKCU:\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" value="AppsUseLightTheme" type="DWord" data="0"/>
